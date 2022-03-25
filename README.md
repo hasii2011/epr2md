@@ -6,7 +6,7 @@
 
 # Introduction
 
-A simple python console script to let me convert [epr](https://github.com/sshaw/export-pull-requests) files to [Markdown[(https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/).
+A simple python console script to let me convert [epr](https://github.com/sshaw/export-pull-requests) files to [Markdown](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/).
 
 Typical export-pull-requests file that I generate use the following CLI invocation:
 
