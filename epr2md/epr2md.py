@@ -22,8 +22,8 @@ HEADER_INDICATOR:  str = 'Repository'
 
 INDEX_HEADER:       int = 0
 INDEX_ISSUE_NUMBER: int = 2
-INDEX_URL:          int = 8
 INDEX_DESCRIPTION:  int = 4
+INDEX_URL:          int = 8
 
 
 class Epr2Md:
@@ -82,8 +82,8 @@ class Epr2Md:
 
 @command()
 @version_option(version=f'{__version__}', message='%(version)s')
-@option('-i', '--input-file', required=True, help='The input .put file to decompress.')
-@option('-o', '--output-file', required=False, help='The output xml file.')
+@option('-i', '--input-file', required=True, help='The input .csv file to convert.')
+@option('-o', '--output-file', required=False, help='The output markdown file.')
 def commandHandler(input_file: str, output_file: str):
 
     epr2md: Epr2Md = Epr2Md(inputFileName=input_file, outputFileName=output_file)
