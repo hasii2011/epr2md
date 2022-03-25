@@ -1,0 +1,40 @@
+Repository,Type,#,User,Title,State,Created,Updated,URL
+hasii2011/PyUt,Issue,359,hasii2011,Fix warning in PyutLink.setType,closed,03/23/22 09:50:04,03/23/22 13:56:09,https://github.com/hasii2011/PyUt/issues/359
+hasii2011/PyUt,Issue,358,hasii2011,Fix PyutVisibilityEnum.toEnum ♻️ ,closed,03/23/22 09:09:02,03/23/22 09:32:43,https://github.com/hasii2011/PyUt/issues/358
+hasii2011/PyUt,Issue,357,hasii2011,Fix Dimensions.deSerialize ♻️ ,closed,03/23/22 08:51:35,03/23/22 09:07:43,https://github.com/hasii2011/PyUt/issues/357
+hasii2011/PyUt,Issue,356,hasii2011,Fix PyutUtils.strFloatToInt 🎨 ✅ ,closed,03/23/22 08:19:11,03/23/22 08:47:03,https://github.com/hasii2011/PyUt/issues/356
+hasii2011/PyUt,Issue,354,hasii2011,Adding 2nd Lollipop Interface fails 🐛 ,closed,03/22/22 07:56:02,03/23/22 08:17:01,https://github.com/hasii2011/PyUt/issues/354
+hasii2011/PyUt,Issue,352,hasii2011,Fix warnings in TestStackTraceFormatter ✅ 👽 ,closed,03/21/22 08:45:16,03/21/22 15:36:26,https://github.com/hasii2011/PyUt/issues/352
+hasii2011/PyUt,Issue,351,hasii2011,Rename GithubAdapter to GitHubAdapter ♻️ ,closed,03/21/22 08:35:48,03/21/22 15:32:10,https://github.com/hasii2011/PyUt/issues/351
+hasii2011/PyUt,Issue,350,hasii2011,Fix mypy warnings in Unit tests 🚨 ,closed,03/20/22 15:02:59,03/21/22 15:17:26,https://github.com/hasii2011/PyUt/issues/350
+hasii2011/PyUt,Issue,349,hasii2011,Fix new mypy issues. 🚨 ,closed,03/19/22 15:45:10,03/20/22 15:05:40,https://github.com/hasii2011/PyUt/issues/349
+hasii2011/PyUt,Issue,348,hasii2011,Move Pyut.py to org.pyut. ♻️ 🎨 🚨 ,closed,03/19/22 15:44:03,03/20/22 14:41:23,https://github.com/hasii2011/PyUt/issues/348
+hasii2011/PyUt,Issue,347,hasii2011,Preferences rename .textFont to .textFontFamily  ♻️ ,closed,03/19/22 09:56:47,03/20/22 20:26:58,https://github.com/hasii2011/PyUt/issues/347
+hasii2011/PyUt,Issue,346,hasii2011,OglInterface2 does not turn red when highlighted 🐛 🩹 ,closed,03/16/22 14:51:06,03/22/22 08:23:50,https://github.com/hasii2011/PyUt/issues/346
+hasii2011/PyUt,Issue,344,hasii2011,Update resources/Kudos.txt. 🥚 ,closed,03/15/22 08:54:34,03/15/22 14:13:22,https://github.com/hasii2011/PyUt/issues/344
+hasii2011/PyUt,Issue,343,hasii2011,TextFontEnum  should be in graphics model ♻️ ,closed,03/15/22 08:51:30,03/16/22 15:25:50,https://github.com/hasii2011/PyUt/issues/343
+hasii2011/PyUt,Issue,342,hasii2011,Deprecate and remove factory method getPyutStereotype(name) ♻️ ,closed,03/15/22 08:48:54,03/15/22 20:19:08,https://github.com/hasii2011/PyUt/issues/342
+hasii2011/PyUt,Issue,341,hasii2011,PyutSDInstance._instanceGraphicalType should be an enumeration,closed,03/15/22 08:32:35,03/15/22 08:33:12,https://github.com/hasii2011/PyUt/issues/341
+hasii2011/PyUt,Issue,339,hasii2011,PyutText should not have graphical attributes 💥 ,closed,03/15/22 08:26:53,03/19/22 20:32:23,https://github.com/hasii2011/PyUt/issues/339
+hasii2011/PyUt,Issue,337,hasii2011,Model classes should not use preferences ♻️ ,closed,03/15/22 07:49:44,03/17/22 14:21:10,https://github.com/hasii2011/PyUt/issues/337
+hasii2011/PyUt,Issue,336,hasii2011,Model classes should not use mediator ♻️ 🔥 ,closed,03/15/22 07:49:09,03/15/22 20:18:11,https://github.com/hasii2011/PyUt/issues/336
+hasii2011/PyUt,Issue,335,hasii2011, Correctly process exceptions from IOFile 🎨 ,closed,03/10/22 08:27:58,03/15/22 14:04:57,https://github.com/hasii2011/PyUt/issues/335
+hasii2011/PyUt,Issue,334,hasii2011,Remove ErrorManager Factory method,closed,03/10/22 07:30:40,03/10/22 07:40:43,https://github.com/hasii2011/PyUt/issues/334
+hasii2011/PyUt,Issue,332,hasii2011,Write Error Manager logs to rotating log file ✨ ,closed,03/08/22 08:19:34,03/15/22 14:27:27,https://github.com/hasii2011/PyUt/issues/332
+hasii2011/PyUt,Issue,329,hasii2011,Fix SD Instance Resize,closed,03/04/22 13:09:36,03/04/22 14:55:51,https://github.com/hasii2011/PyUt/issues/329
+hasii2011/PyUt,Issue,325,hasii2011,"Command-A should be ""Select All""",closed,02/28/22 20:30:11,02/28/22 21:30:47,https://github.com/hasii2011/PyUt/issues/325
+hasii2011/PyUt,Issue,324,hasii2011,Fix TODOs in PyutMethod  🎨 ,closed,02/26/22 07:41:56,03/02/22 15:28:52,https://github.com/hasii2011/PyUt/issues/324
+hasii2011/PyUt,Issue,323,hasii2011,Fix TODO in PyutGloballyDisplayParameters 🎨 ,closed,02/26/22 07:41:27,03/04/22 07:43:22,https://github.com/hasii2011/PyUt/issues/323
+hasii2011/PyUt,Issue,322,hasii2011,Fix PyutParam TODO  🎨 ,closed,02/26/22 07:34:13,02/28/22 21:42:35,https://github.com/hasii2011/PyUt/issues/322
+hasii2011/PyUt,Issue,320,hasii2011,Deprecate the local code signing scripts 🔥 🔨 ,closed,02/22/22 20:28:36,02/22/22 20:45:31,https://github.com/hasii2011/PyUt/issues/320
+hasii2011/PyUt,Issue,318,hasii2011,OglToPyUmlDefinition error,closed,02/20/22 10:33:43,02/22/22 18:15:11,https://github.com/hasii2011/PyUt/issues/318
+hasii2011/PyUt,Issue,317,hasii2011,Fix UmlClassDiagramsFrame(UmlDiagramsFrame).createInterfaceLink to use History Manager,closed,02/20/22 08:52:47,02/22/22 18:14:20,https://github.com/hasii2011/PyUt/issues/317
+hasii2011/PyUt,Issue,316,hasii2011,Undo of class from toolbar does not work,closed,02/20/22 08:47:33,02/22/22 19:22:53,https://github.com/hasii2011/PyUt/issues/316
+hasii2011/PyUt,Issue,315,hasii2011,Fix undo of links,closed,02/18/22 08:39:21,02/20/22 08:58:43,https://github.com/hasii2011/PyUt/issues/315
+hasii2011/PyUt,Issue,308,hasii2011,Remove duplicate code from UmlClassDiagramsFrame.createInheritanceLink 🔥 ,closed,02/06/22 08:17:59,02/20/22 08:58:08,https://github.com/hasii2011/PyUt/issues/308
+hasii2011/PyUt,Issue,305,hasii2011,Remove deprecated methods 🗑️ ,closed,02/03/22 08:05:13,03/16/22 15:12:10,https://github.com/hasii2011/PyUt/issues/305
+hasii2011/PyUt,Issue,303,hasii2011,Fix TODO in UmlClassDiagramsFrame,closed,01/25/22 19:28:46,02/20/22 09:18:30,https://github.com/hasii2011/PyUt/issues/303
+hasii2011/PyUt,Issue,302,hasii2011,Make DTDParser not use static methods,closed,01/25/22 19:26:50,03/02/22 14:53:48,https://github.com/hasii2011/PyUt/issues/302
+hasii2011/PyUt,Issue,300,hasii2011,Fix TODO in PyutPythonVisitor,closed,01/23/22 21:53:36,02/22/22 20:45:51,https://github.com/hasii2011/PyUt/issues/300
+hasii2011/PyUt,Issue,299,hasii2011,Exporting/Importing Python code should include source code ✨ ,closed,01/23/22 21:12:36,02/28/22 21:31:11,https://github.com/hasii2011/PyUt/issues/299
+hasii2011/PyUt,Issue,284,hasii2011,Pyut Preferences files should be a .ini file not a .dat file,closed,03/15/21 18:14:09,02/17/22 08:21:08,https://github.com/hasii2011/PyUt/issues/284
