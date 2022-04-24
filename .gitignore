@@ -9,3 +9,4 @@ dist/
 /epr2md.egg-info/
 /pyenv-3.9.9/
 .python-version
+.envrc
