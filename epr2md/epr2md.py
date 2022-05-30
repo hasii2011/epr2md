@@ -11,7 +11,7 @@ from click import format_filename
 from click import echo as clickEcho
 from click import secho as clickSEcho
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 INPUT_SUFFIX:  str = '.csv'
 OUTPUT_SUFFIX: str = '.md'
