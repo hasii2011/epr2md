@@ -1,0 +1,20 @@
+hasii2011/PyUt,Issue,410,hasii2011,Update License 📝 ,closed,07/23/22 18:22:49,07/23/22 18:23:50,N/A,https://github.com/hasii2011/PyUt/issues/410
+hasii2011/PyUt,Issue,409,hasii2011,Update PyutToPython to generate __init__,closed,07/20/22 12:11:35,07/24/22 07:02:16,N/A,https://github.com/hasii2011/PyUt/issues/409
+hasii2011/PyUt,Issue,408,hasii2011,PyutToPython generates incorrect method names 🐛 ,closed,07/20/22 12:04:08,07/23/22 12:49:20,N/A,https://github.com/hasii2011/PyUt/issues/408
+hasii2011/PyUt,Issue,405,hasii2011,Association diamonds are too long,closed,07/15/22 13:32:14,07/24/22 07:07:37,N/A,https://github.com/hasii2011/PyUt/issues/405
+hasii2011/PyUt,Issue,404,hasii2011,Deprecate PyutClass.getStereoType and .setStereoType,closed,07/13/22 13:33:23,07/23/22 13:54:20,N/A,https://github.com/hasii2011/PyUt/issues/404
+hasii2011/PyUt,Issue,403,hasii2011,Fix graphic when no UML Stereotype 🐛 ,closed,07/13/22 13:23:01,07/23/22 18:00:34,N/A,https://github.com/hasii2011/PyUt/issues/403
+hasii2011/PyUt,Issue,402,hasii2011,Missing StereoType attribute 🐛 ,closed,07/13/22 13:01:03,07/23/22 17:50:47,N/A,https://github.com/hasii2011/PyUt/issues/402
+hasii2011/PyUt,Issue,399,hasii2011,Rearranging fields appears to be broken,closed,06/24/22 09:53:23,07/23/22 17:53:12,N/A,https://github.com/hasii2011/PyUt/issues/399
+hasii2011/PyUt,Issue,397,hasii2011,Use External pyutmodel and ogl package,closed,06/07/22 11:46:40,06/11/22 15:55:22,N/A,https://github.com/hasii2011/PyUt/issues/397
+hasii2011/PyUt,Issue,394,hasii2011,Update key dependencies to latest ⬆️ ,closed,05/31/22 18:49:50,05/31/22 19:33:08,N/A,https://github.com/hasii2011/PyUt/issues/394
+hasii2011/PyUt,Issue,393,hasii2011,Remove old PyutXml/OglToMiniDom/MiniDomToOgl classes,closed,05/23/22 15:33:03,06/03/22 20:07:42,N/A,https://github.com/hasii2011/PyUt/issues/393
+hasii2011/PyUt,Issue,392,hasii2011,Fix old python 2.x syntax in UMLFrame,closed,05/22/22 10:59:50,06/03/22 19:44:28,N/A,https://github.com/hasii2011/PyUt/issues/392
+hasii2011/PyUt,Issue,391,hasii2011,Rename to pyutmodel,closed,05/17/22 15:37:08,05/19/22 12:57:12,N/A,https://github.com/hasii2011/PyUt/issues/391
+hasii2011/PyUt,Issue,390,hasii2011,Continue separating out Ogl,closed,05/16/22 16:25:47,05/25/22 07:35:19,N/A,https://github.com/hasii2011/PyUt/issues/390
+hasii2011/PyUt,Issue,386,hasii2011,Update to stock IDs,closed,05/14/22 14:36:00,06/07/22 11:40:06,N/A,https://github.com/hasii2011/PyUt/issues/386
+hasii2011/PyUt,Issue,369,hasii2011,File Export/Import menu item should be disabled for Sequence Diagrams  🐛 🚸 ,closed,03/27/22 13:01:39,06/03/22 20:14:55,N/A,https://github.com/hasii2011/PyUt/issues/369
+hasii2011/PyUt,Issue,330,hasii2011,SDMessage should not popup menu 🩹 ,closed,03/04/22 15:19:08,06/03/22 20:29:38,N/A,https://github.com/hasii2011/PyUt/issues/330
+hasii2011/PyUt,Issue,321,hasii2011,Figure out interface for AbstractErrorView 🩹 ,closed,02/23/22 08:56:31,06/03/22 20:41:37,N/A,https://github.com/hasii2011/PyUt/issues/321
+hasii2011/PyUt,Issue,272,hasii2011,Fix UI unit tests,closed,02/11/21 16:30:43,05/31/22 18:55:35,N/A,https://github.com/hasii2011/PyUt/issues/272
+hasii2011/PyUt,Issue,50,hasii2011,PyUtXMI does not generate real XMI,closed,12/16/19 16:31:18,06/03/22 20:07:30,N/A,https://github.com/hasii2011/PyUt/issues/50

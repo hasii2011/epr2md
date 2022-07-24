@@ -23,7 +23,7 @@ HEADER_INDICATOR:  str = 'Repository'
 INDEX_HEADER:       int = 0
 INDEX_ISSUE_NUMBER: int = 2
 INDEX_DESCRIPTION:  int = 4
-INDEX_URL:          int = 8
+INDEX_URL:          int = 9
 
 
 class Epr2Md:
