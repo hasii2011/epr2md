@@ -3,7 +3,6 @@ from typing import List
 
 from os import linesep as osLineSep
 
-
 from click import command
 from click import option
 from click import version_option
@@ -11,7 +10,7 @@ from click import format_filename
 from click import echo as clickEcho
 from click import secho as clickSEcho
 
-__version__ = "0.1.1"
+__version__ = "0.1.3"
 
 INPUT_SUFFIX:  str = '.csv'
 OUTPUT_SUFFIX: str = '.md'
