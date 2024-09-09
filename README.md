@@ -105,5 +105,6 @@ code in Copilot.
 
 A repository owner may opt out of Copilot by changing Settings --> GitHub Copilot.
 
-I have done so.
+I have done so.  I have done so
+
 
