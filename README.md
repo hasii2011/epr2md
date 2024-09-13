@@ -1,4 +1,6 @@
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/hasii2011/epr2md/tree/master.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/hasii2011/epr2md/tree/master)
+[![PyPI version](https://badge.fury.io/py/epr2md.svg)](https://badge.fury.io/py/epr2md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -88,7 +90,6 @@ please drop me an e-mail.
 I am concerned about GitHub's Copilot project
 
 
-
 I urge you to read about the
 [Give up GitHub](https://GiveUpGitHub.org) campaign from
 [the Software Freedom Conservancy](https://sfconservancy.org).
@@ -102,9 +103,3 @@ to monitor their terms of service.
 Any use of this project's code by GitHub Copilot, past or present, is done
 without my permission.  I do not consent to GitHub's use of this project's
 code in Copilot.
-
-A repository owner may opt out of Copilot by changing Settings --> GitHub Copilot.
-
-I have done so.  I have done so
-
-

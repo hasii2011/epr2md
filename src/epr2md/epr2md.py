@@ -10,7 +10,7 @@ from click import format_filename
 from click import echo as clickEcho
 from click import secho as clickSEcho
 
-__version__ = "0.1.3"
+from epr2md import __version__
 
 INPUT_SUFFIX:  str = '.csv'
 OUTPUT_SUFFIX: str = '.md'
@@ -63,9 +63,6 @@ class Epr2Md:
                 mdLine:      str = f'* [{issueNumber}]({url}) {description}{osLineSep}'
                 # clickEcho(f'{mdLine}')
                 outputFile.write(mdLine)
-
-    def _getValidIssueNumber(self, issueLine: str) -> str:
-        """"""
 
     def _getIssueLines(self) -> List[str]:
 
