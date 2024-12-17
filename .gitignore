@@ -6,7 +6,7 @@ __pycache__/
 .DS_Store
 build/
 dist/
-/epr2md.egg-info/
+src/epr2md.egg-info/
 /pyenv-3.11.9/
 .python-version
 .envrc
